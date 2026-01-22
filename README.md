@@ -26,7 +26,3 @@ To run this project, ensure you have the following Python libraries installed:
 ## Performance
 
 The current model achieves an accuracy of approximately 77.9% on the test dataset. The decision paths are visualized to provide transparency into how specific health indicators contribute to the final classification.
-
----
-
-Would you like me to generate a visualization of the decision tree structure or explain the feature importance based on your code?
